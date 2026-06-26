@@ -1,0 +1,106 @@
+[
+  {
+    "id": "sample_001",
+    "page_name": "Lumière Skincare",
+    "ad_creative_bodies": [
+      "Dermatologists don't want you to know this one thing about your moisturizer. ✨\n\nMost creams sit on top of your skin. Lumière's Hydra-Barrier serum actually penetrates 7 layers deep — delivering ceramides, hyaluronic acid, and peptides exactly where your skin needs them.\n\nThe result? Visible plumping in 72 hours. Or your money back.\n\n🌿 Clean formula. No parabens. Vegan & cruelty-free.\n\n👇 Try the Starter Kit — 20% off, free shipping today only."
+    ],
+    "ad_creative_link_titles": ["Get 20% Off Your First Order"],
+    "ad_creative_link_captions": ["lumiereskincare.com · Limited time offer"],
+    "ad_delivery_start_time": "2026-05-01",
+    "currency": "USD",
+    "spend": { "lower_bound": "1000", "upper_bound": "5000" },
+    "impressions": { "lower_bound": "50000", "upper_bound": "100000" }
+  },
+  {
+    "id": "sample_002",
+    "page_name": "Lumière Skincare",
+    "ad_creative_bodies": [
+      "\"I've tried everything for my dry skin. Lumière is the first thing that actually worked.\"\n— Sarah M., verified buyer ⭐⭐⭐⭐⭐\n\nJoin 47,000+ women who've ditched their 10-step routine for one serum that does it all.\n\nLumière Hydra-Barrier: the last moisturizer you'll ever need.\n\n🔥 Bundle & save 30% — ships free."
+    ],
+    "ad_creative_link_titles": ["Shop the Bundle"],
+    "ad_creative_link_captions": ["Free shipping + 30-day guarantee"],
+    "ad_delivery_start_time": "2026-05-10",
+    "currency": "USD",
+    "spend": { "lower_bound": "5000", "upper_bound": "10000" },
+    "impressions": { "lower_bound": "100000", "upper_bound": "200000" }
+  },
+  {
+    "id": "sample_003",
+    "page_name": "GlowLab Co.",
+    "ad_creative_bodies": [
+      "Stop wasting money on skincare that doesn't work.\n\nGlowLab's Vitamin C Brightening Drops are formulated at 20% concentration — the clinical threshold where you actually see results. Most brands use 5%.\n\nBefore: dull, uneven skin.\nAfter 4 weeks: you'll be getting compliments you don't know what to do with.\n\n💧 Fragrance-free. Dermatologist tested.\n✅ 60-day results guarantee or full refund.\n\n→ Grab your first bottle for $19 (reg. $49)"
+    ],
+    "ad_creative_link_titles": ["Try It for $19"],
+    "ad_creative_link_captions": ["glowlabco.com · 60-day guarantee"],
+    "ad_delivery_start_time": "2026-04-15",
+    "currency": "USD",
+    "spend": { "lower_bound": "2500", "upper_bound": "7500" },
+    "impressions": { "lower_bound": "75000", "upper_bound": "150000" }
+  },
+  {
+    "id": "sample_004",
+    "page_name": "Lumière Skincare",
+    "ad_creative_bodies": [
+      "POV: You finally found a serum that works and now you're telling everyone about it 😭✨\n\nWe know, we know. Lumière fans are something else. But when your skin looks this good, you can't help it.\n\nHydra-Barrier Serum — the one everyone's been asking about.\n\nShop now → link in bio 🌿"
+    ],
+    "ad_creative_link_titles": ["Shop Hydra-Barrier Serum"],
+    "ad_creative_link_captions": ["lumiereskincare.com"],
+    "ad_delivery_start_time": "2026-05-20",
+    "currency": "USD",
+    "spend": { "lower_bound": "500", "upper_bound": "2500" },
+    "impressions": { "lower_bound": "25000", "upper_bound": "75000" }
+  },
+  {
+    "id": "sample_005",
+    "page_name": "GlowLab Co.",
+    "ad_creative_bodies": [
+      "The skincare industry has been lying to you.\n\nThey put 1% active ingredients in products and charge you $80 for water. We did the research — checked every label. It's shocking.\n\nGlowLab was built differently. We publish our full formula online. Every ingredient, every percentage. Because when you see what's actually in it, you'll understand why it works.\n\nTransparency. Efficacy. No BS.\n\nFirst order ships free → try GlowLab risk-free for 60 days."
+    ],
+    "ad_creative_link_titles": ["See Our Full Formula"],
+    "ad_creative_link_captions": ["glowlabco.com · Free shipping on first order"],
+    "ad_delivery_start_time": "2026-04-01",
+    "currency": "USD",
+    "spend": { "lower_bound": "3000", "upper_bound": "8000" },
+    "impressions": { "lower_bound": "80000", "upper_bound": "160000" }
+  },
+  {
+    "id": "sample_006",
+    "page_name": "DermaDose",
+    "ad_creative_bodies": [
+      "Your skin is aging 3x faster than it should be.\n\nBlue light from your phone. Pollution. Stress. They all accelerate collagen breakdown — and most serums do nothing about it.\n\nDermaDose Shield uses patented BioShield technology to neutralize environmental stressors at the cellular level. Used by estheticians in 12 countries.\n\n🏆 Winner: Allure Best of Beauty 2025\n🏆 #1 Bestseller: Skincare Tools & Actives\n\nSee why 200,000+ customers call it their skin insurance.\n\n→ 15% off first order. Free express shipping today."
+    ],
+    "ad_creative_link_titles": ["Shop DermaDose Shield"],
+    "ad_creative_link_captions": ["dermadose.com · 15% off + free express shipping"],
+    "ad_delivery_start_time": "2026-05-05",
+    "currency": "USD",
+    "spend": { "lower_bound": "10000", "upper_bound": "25000" },
+    "impressions": { "lower_bound": "200000", "upper_bound": "500000" }
+  },
+  {
+    "id": "sample_007",
+    "page_name": "DermaDose",
+    "ad_creative_bodies": [
+      "I'm a licensed esthetician, and I'm going to be honest with you.\n\nI used to recommend $300 serums to my clients. Then I tried DermaDose Shield myself. Same actives. Same results. 1/3 the price.\n\nNow my whole client list is on it. And my colleagues think I've lost my mind for recommending a $49 product.\n\nI don't care. Results speak for themselves.\n\n👇 See what I use (and what I tell every single client)"
+    ],
+    "ad_creative_link_titles": ["Watch the Full Review"],
+    "ad_creative_link_captions": ["dermadose.com"],
+    "ad_delivery_start_time": "2026-05-15",
+    "currency": "USD",
+    "spend": { "lower_bound": "7500", "upper_bound": "15000" },
+    "impressions": { "lower_bound": "150000", "upper_bound": "300000" }
+  },
+  {
+    "id": "sample_008",
+    "page_name": "GlowLab Co.",
+    "ad_creative_bodies": [
+      "Limited run: 500 units. We're serious.\n\nOur Retinol Reset Night Cream — the one that sold out in 4 hours last drop — is back. This time we made more. Not many more.\n\nIf you've been waiting, this is your window. Once they're gone, they're gone until Q3.\n\n⏰ 48-hour window. No restock until July.\n\n→ Add to cart before they're gone again"
+    ],
+    "ad_creative_link_titles": ["Get Yours Before They're Gone"],
+    "ad_creative_link_captions": ["glowlabco.com · Sells out fast"],
+    "ad_delivery_start_time": "2026-06-01",
+    "currency": "USD",
+    "spend": { "lower_bound": "1500", "upper_bound": "4000" },
+    "impressions": { "lower_bound": "40000", "upper_bound": "90000" }
+  }
+]

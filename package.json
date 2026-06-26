@@ -1,0 +1,56 @@
+{
+  "name": "ad-scout",
+  "version": "0.1.0",
+  "description": "AI-powered competitor ad intelligence — pull brand ads from Meta Ad Library and get Claude's strategic analysis in one command.",
+  "keywords": [
+    "meta ads",
+    "facebook ads",
+    "ad library",
+    "competitor research",
+    "marketing",
+    "anthropic",
+    "claude",
+    "cli"
+  ],
+  "author": "Liam Schnorr <liamss.business@gmail.com> (https://github.com/liamssbusiness)",
+  "license": "MIT",
+  "homepage": "https://github.com/liamssbusiness/ad-scout#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liamssbusiness/ad-scout.git"
+  },
+  "type": "module",
+  "main": "dist/cli.js",
+  "bin": {
+    "ad-scout": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "dev": "tsx src/cli.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "demo:offline": "node dist/cli.js acme --offline",
+    "demo:sample": "node dist/cli.js acme --demo"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "data",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ]
+}
