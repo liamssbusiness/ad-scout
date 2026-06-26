@@ -9,6 +9,8 @@
 
 **AI-powered competitor ad intelligence for marketers.** Point it at a brand, get a strategic analysis of their ads — hooks, angles, offers, format mix, gaps, and concrete recommendations — in one command.
 
+> 🔴 **[Try the live demo →](https://ad-scout-web.vercel.app)** — runs in your browser, no install. ([web source](https://github.com/liamssbusiness/ad-scout-web))
+
 This is something ad agencies do by hand, spending hours in the Meta Ad Library. ad-scout automates it with a two-stage Claude pipeline.
 
 ---
